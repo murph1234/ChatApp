@@ -52,3 +52,8 @@ yarn start
 ```
 
 Done! Now open localhost:3000 in your browser.
+
+
+Srishti Anand
+IIT Roorkee
+Mechanical Department
